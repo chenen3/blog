@@ -1,3 +1,3 @@
 # blog
 
-Trying post blog by [Issues](https://github.com/chenen3/blog/issues)
+Trying to post blog by [github issues](https://github.com/chenen3/blog/issues)
